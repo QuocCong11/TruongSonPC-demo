@@ -1,0 +1,42 @@
+.checkout {
+    margin-bottom: 60px;
+}
+
+.justify-content-between {
+    height: 60px;
+}
+
+.justify-content-between span {
+    font-size: 1.4rem;
+}
+
+.justify-content-between strong {
+    font-size: 1.4rem;
+}
+
+.btn-secondary,
+.form-control {
+    height: 50px;
+    font-size: 1.4rem;
+}
+
+.col-md-12 {
+    margin: 6px 0;
+    font-size: 1.4rem;
+}
+
+.my-0 {
+    font-size: 1.2rem;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+}
+
+.text-muted {
+    font-size: 1.4rem;
+}
+
+.custom-control-label {
+    font-size: 1.4rem;
+}
